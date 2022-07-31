@@ -1,0 +1,2 @@
+# odev
+boostrap proje PAYLASTIKCA
